@@ -1,5 +1,7 @@
 # WANTODO
 
+open-source::me (primary goals: keep 1st ray perspective, and perfection (no hypocracy))
+
 #### primary goals/concerns
 - make the body capable of absorbing *all* frequencies (black), and as soon as the body is capable of absorbing, it's capable of emitting those same frequencies -- which means that *all* colours are able to be output, meaning that the body will appear 2d, and have no depth (cause no shadow is cast and no gradient). although the body retains a 3d+ shape to it, it *appears* 2d and flat.
 - build a (symbolic/conceptual) system where the angle and other conditons determine the emission spectrum (like how metals are more luminous (like a sunspot) at an angle, and darker looking head on). this will allow for really cool shading effects giving us that really cool anime/cartoon appearance. the conceptual aspect is for blending my emotion into the colour and shading as well -- so if I'm upset I can have stronger shading in specific places vs others, when I'm feeling good, maybe my skin has a rainbow or even changes colour to the enviroment/music (inspired by octopi). I (personally like the idea of having a conceptual system, but I know that a symbolic system is also going to be popular, as well).
